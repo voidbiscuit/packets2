@@ -1,0 +1,12 @@
+-- Menu --
+
+T - Start
+Y - Stop
+X - Exit
+
+
+-- Filter Options --
+
+A - ARP
+4 - IPv4
+6 - IPv6
